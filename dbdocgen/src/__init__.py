@@ -1,1 +1,1 @@
-"""Source code for the DBDoc package.""" 
+"""Source code for the DBDocgen package.""" 

@@ -1,0 +1,26 @@
+{
+    "dbdocgen help": {
+        "description": "Show this message and exit.",
+        "options": {
+            "--help": "Show this message and exit."
+        }
+    },
+    "dbdocgen info": {
+        "description": "Show information about the project.",
+        "options": {
+            "--info": "Show information about the project."
+        }
+    },
+    "dbdocgen version": {
+        "description": "Show the version of the project.",
+        "options": {
+            "--version": "Show the version of the project."
+        }
+    },
+    "dbdocgen generate": {
+        "description": "Generate documentation for the project.",
+        "options": {
+            "--generate": "Generate documentation for the project."
+        }
+    }
+}
